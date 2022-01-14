@@ -1,0 +1,8 @@
+Python 2.7.2 (default, Jun 12 2011, 14:24:46) [MSC v.1500 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Enter your gross income =100000
+Enter your no of dependents =5
+('Your income tax is =', 15000.0)
+>>> 
