@@ -1,0 +1,12 @@
+Python 2.7.2 (default, Jun 12 2011, 14:24:46) [MSC v.1500 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Marks of student 1=53
+Marks of student 2=67
+Marks of student 3=42
+Marks of student 4=98
+Marks of student 5=33
+('Marks before sorting:', [53, 67, 42, 98, 33])
+('Marks after sorting;', [33, 42, 53, 67, 98])
+>>> 
