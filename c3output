@@ -1,0 +1,11 @@
+Python 2.7.2 (default, Jun 12 2011, 14:24:46) [MSC v.1500 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Enter your SID:21103112
+Enter your name:'Tanish Kalra'
+Enter your Gender:'M'
+Enter Course name:'Int To Computing'
+Enter your CGPA:9.5
+[21103112, 'Tanish Kalra', 'M', 'Int To Computing', 9.5]
+>>> 
