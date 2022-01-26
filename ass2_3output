@@ -1,0 +1,12 @@
+Python 2.7.2 (default, Jun 12 2011, 14:24:46) [MSC v.1500 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+('a&b=', 8)
+('a\x08=', 58)
+('a^b=', 50)
+('Part d, i=', 224)
+('Part d, ii=', 40)
+('Part e, i=', 14)
+('Part e, ii=', 0)
+>>> 
