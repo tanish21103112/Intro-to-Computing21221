@@ -1,0 +1,10 @@
+Python 2.7.2 (default, Jun 12 2011, 14:24:46) [MSC v.1500 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+to check whether the given input lengths can form a triangle or not
+Enter first side:9
+Enter second side:5
+Enter third side:13
+Yes
+>>> 
