@@ -1,0 +1,17 @@
+Python 2.7.2 (default, Jun 12 2011, 14:24:46) [MSC v.1500 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Enter the number of terms in series 9
+Fibonacci sequence:
+0
+1
+1
+2
+3
+5
+8
+13
+21
+('Avg is:', 6.0)
+>>> 

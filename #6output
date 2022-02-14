@@ -1,0 +1,19 @@
+Python 2.7.2 (default, Jun 12 2011, 14:24:46) [MSC v.1500 64 bit (AMD64)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+Enter SID: 21103112
+Enter Name: 'Tanish Kalra'
+Do you want to enter another student entry(Y or N):'Y'
+Enter SID: 21103119
+Enter Name: 'Saachika Paul'
+Do you want to enter another student entry(Y or N):'Y'
+Enter SID: 21103124
+Enter Name: 'Prabhjot Singh'
+Do you want to enter another student entry(Y or N):'N'
+('students details stored in the dictionary is:', {21103112: 'Tanish Kalra', 21103124: 'Prabhjot Singh', 21103119: 'Saachika Paul'})
+('Sort dictionary using student names is :', {21103112: 'Tanish Kalra', 21103124: 'Prabhjot Singh', 21103119: 'Saachika Paul'})
+('Sort dictionary using SID is :', {21103112: 'Tanish Kalra', 21103124: 'Prabhjot Singh', 21103119: 'Saachika Paul'})
+Search Name with SID (Enter sid): 21103119
+('The name of student is :', 'Saachika Paul')
+>>> 
